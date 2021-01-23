@@ -7,6 +7,7 @@ import datetime
 import json
 import xml.etree.ElementTree as ET
 import xml.dom.minidom
+# ^ modules you may want to use ^
 
 TOKEN = 'your_token_here'
 GUILD = 'your_guild_here'
