@@ -1,2 +1,2 @@
 # Discord-bot-template
-Simple template for a discord bot
+What it says on the tin. A simple template for a discord bot.
